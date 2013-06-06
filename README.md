@@ -3,7 +3,7 @@
 <p>Script useful for detecting change in websites.</p>
 
 <p>
-Install it with a crontab expression:
+Install it with the following crontab expression:
 </p>
 <pre><code>
 #Check for changes every hour
