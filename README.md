@@ -1,13 +1,11 @@
-Web Change Notifier
-^^^^^^^^^^^^^^^^^^^
+<h2>Web Change Notifier</h2>
 
-Script useful for detecting change in websites.
+<p>Script useful for detecting change in websites.</p>
 
-Ussage:
-
-+ Install it with a crontab expression:
-
-<code>
+<p>
+Install it with a crontab expression:
+</p>
+<pre><code>
 #Check for changes every hour
 0 * * * * /path/to/project/web-change-notifier/check.sh >> /path/to/project/web-change-notifier/run.log
-</code>
+</code></pre>
